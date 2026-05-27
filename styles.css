@@ -147,16 +147,16 @@ a {
   align-items: center;
   justify-content: center;
   background:
-    linear-gradient(90deg, rgba(8, 4, 17, 0.9), rgba(8, 4, 17, 0.35), rgba(8, 4, 17, 0.82)),
+    linear-gradient(90deg, rgba(8, 4, 17, 0.55), rgba(8, 4, 17, 0.15), rgba(8, 4, 17, 0.55)),
     url("hero-moniana.jpg") center/cover no-repeat;
-  text-align: center;
+    text-align: center;
   padding: 7rem 1rem;
 }
 
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at 50% 40%, rgba(255, 79, 216, 0.24), transparent 30%);
+  background: none;
 }
 
 .hero-content {
