@@ -148,7 +148,7 @@ a {
   justify-content: center;
   background:
     linear-gradient(90deg, rgba(8, 4, 17, 0.9), rgba(8, 4, 17, 0.35), rgba(8, 4, 17, 0.82)),
-    url("images/hero-moniana.jpg") center/cover no-repeat;
+    url("hero-moniana.jpg") center/cover no-repeat;
   text-align: center;
   padding: 7rem 1rem;
 }
